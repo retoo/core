@@ -1779,6 +1779,9 @@ python-clementine-remote==1.0.1
 # homeassistant.components.digital_ocean
 python-digitalocean==1.13.2
 
+# homeassistant.components.dingz
+python-dingz==0.3.0
+
 # homeassistant.components.ecobee
 python-ecobee-api==0.2.11
 

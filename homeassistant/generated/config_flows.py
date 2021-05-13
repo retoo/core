@@ -52,6 +52,7 @@ FLOWS = [
     "devolo_home_control",
     "dexcom",
     "dialogflow",
+    "dingz",
     "directv",
     "doorbird",
     "dunehd",

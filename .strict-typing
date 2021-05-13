@@ -12,6 +12,7 @@ homeassistant.components.calendar.*
 homeassistant.components.camera.*
 homeassistant.components.cover.*
 homeassistant.components.device_automation.*
+homeassistant.components.dingz.*
 homeassistant.components.elgato.*
 homeassistant.components.frontend.*
 homeassistant.components.geo_location.*

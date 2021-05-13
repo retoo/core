@@ -979,6 +979,9 @@ pysqueezebox==0.5.5
 # homeassistant.components.syncthru
 pysyncthru==0.7.3
 
+# homeassistant.components.dingz
+python-dingz==0.3.0
+
 # homeassistant.components.ecobee
 python-ecobee-api==0.2.11
 

@@ -113,6 +113,7 @@ homeassistant/components/dexcom/* @gagebenne
 homeassistant/components/dhcp/* @bdraco
 homeassistant/components/dht/* @thegardenmonkey
 homeassistant/components/digital_ocean/* @fabaff
+homeassistant/components/dingz/* @retoo
 homeassistant/components/directv/* @ctalkington
 homeassistant/components/discogs/* @thibmaek
 homeassistant/components/doorbird/* @oblogic7 @bdraco

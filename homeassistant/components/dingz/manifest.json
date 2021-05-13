@@ -1,0 +1,11 @@
+{
+  "domain": "dingz",
+  "name": "dingz",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/dingz",
+  "requirements": ["python-dingz==0.3.0"],
+  "iot_class": "local_polling",
+  "codeowners": [
+    "@retoo"
+  ]
+}
